@@ -48,12 +48,17 @@
       <file leaf-file-name="memberC.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/memberC.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="34">
               <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
               <folding>
                 <element signature="e#82#83#0" expanded="true" />
                 <element signature="e#124#125#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="51">
+              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+>>>>>>> benyu-twoparam
             </state>
           </provider>
         </entry>
@@ -80,6 +85,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/D.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/D.java" />
+>>>>>>> benyu-twoparam
         <option value="$PROJECT_DIR$/src/memberC.java" />
       </list>
     </option>
@@ -293,6 +302,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -382,11 +392,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+>>>>>>> benyu-twoparam
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
@@ -440,6 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D.java">
       <provider selected="true" editor-type-id="text-editor">
+=======
+>>>>>>> benyu-twoparam
         <state relative-caret-position="17">
           <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding>
@@ -449,10 +468,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/memberC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+>>>>>>> benyu-twoparam
         </state>
       </provider>
     </entry>
