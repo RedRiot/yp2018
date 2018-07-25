@@ -3,8 +3,8 @@ public class Main {
 
     }
 
-    private static void greet(String word) {
-        System.out.println("Greetings!");
+    private static void greet(String word,String word2) {
+        System.out.println(word + word2);
     }
 
 
