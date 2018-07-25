@@ -4,7 +4,7 @@ public class Main {
     }
 
     private static void greet(String word) {
-        System.out.println(word);
+        System.out.println("Greetings!");
     }
 
 
