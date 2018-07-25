@@ -1,7 +1,7 @@
 public class B {
 
     public void count() {
-        System.out.println("21");
+        System.out.println(32);
     }
 
 }
