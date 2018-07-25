@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class memberC {
+    public static void cheer(String param) {
+        System.out.printf(param);
+    }
 }
