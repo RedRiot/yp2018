@@ -1,5 +1,5 @@
 public class D {
-    public String future(){
-        return "Pass";
+    public String future(String param){
+        return "Pass"+param;
     }
 }
