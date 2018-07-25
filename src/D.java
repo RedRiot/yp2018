@@ -1,5 +1,5 @@
 public class D {
-    public String future(String param){
-        return param;
+    public void future(){
+        System.out.println("My chinese horoscope is: PIG");
     }
 }
