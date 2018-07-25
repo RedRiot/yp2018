@@ -1,6 +1,8 @@
 public class memberC {
-    public static void cheer(String param1, String param2) {
-        //asdasd
-        System.out.println(param1 + " " + param2);
+
+    public static void cheer(String param) {
+        //System.out.printf(param);
+        System.out.println("Cheer for "+param);
+
     }
 }
